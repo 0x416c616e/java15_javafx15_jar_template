@@ -1,12 +1,12 @@
 # Java 15 JavaFX 15 JAR Template
 
-An easy way to launch a JavaFX 15 JAR
+An easy way to make and launch a JavaFX 15 JAR
 
 This requires JavaFX 15 (OpenJFX), Java 15, and IntelliJ.
 
 This template makes it easy to make a JavaFX program that you can launch by just double clicking on something.
 
-## Insturctions
+## Instructions
 
 ### Setup:
 
