@@ -12,7 +12,7 @@ This template makes it easy to make a JavaFX program that you can launch by just
 
 1. Clone the repo
 2. Open the project folder in IntelliJ
-3. Click File -> Project Structure -> Click the + icon -> Java
+3. Click File -> Project Structure -> Artifacts -> Click the + icon -> Java
 4. Navigate to the java15_javafx15_jar_template\openjfx-15_windows-x64_bin-sdk\lib folder and select it
 5. Click OK
 6. Click OK when it says "Choose Modules"
