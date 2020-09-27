@@ -18,6 +18,13 @@ This template makes it easy to make a JavaFX program that you can launch by just
 6. Click OK when it says "Choose Modules"
 7. Click Apply
 8. Click OK
+9. Click "Add Configuration"
+11.  Click the + icon
+12. Click Application
+13. Type "Main" in the "Main class" field (without quotes)
+14. Type "--module-path openjfx-15_windows-x64_bin-sdk\javafx-sdk-15\lib --add-modules javafx.controls,javafx.fxml" into the "VM options" field (without quotes)
+15. Click apply
+16. Click OK
 
 ### Coding in the template and then running the JAR:
 
