@@ -8,7 +8,7 @@ This template makes it easy to make a JavaFX program that you can launch by just
 
 ## Insturctions
 
-###Setup:
+### Setup:
 
 1. Open the project folder in IntelliJ
 2. Click File -> Project Structure -> Click the + icon -> Java
@@ -18,7 +18,7 @@ This template makes it easy to make a JavaFX program that you can launch by just
 5. Click Apply
 6. Click OK
 
-###Coding in the template and then running the JAR:
+### Coding in the template and then running the JAR:
 
 7. Write your code in the Main class
 8. Run to make sure it works
