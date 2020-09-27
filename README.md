@@ -1,10 +1,12 @@
 # Java 15 JavaFX 15 JAR Template
 
-An easy way to make and launch a JavaFX 15 JAR
+An easy way to make and launch a JavaFX 15 JAR. 
 
 This requires JavaFX 15 (OpenJFX), Java 15, and IntelliJ.
 
 This template makes it easy to make a JavaFX program that you can launch by just double clicking on something.
+
+These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now.
 
 ## Instructions
 
@@ -39,4 +41,23 @@ This template makes it easy to make a JavaFX program that you can launch by just
 4. Build -> Build Artifacts -> Build
 5. Double click the run.vbs script
 6. You are now running the JAR
+
+### How to change the name of the JAR
+
+Here's an example of how to change the name of the JAR. When you change the name of the JAR, there are a few other things that need to change.
+
+1. Click File -> Project Structure -> Artifacts
+2. In the "Name" field towards the top middle, rename "java15_jar_test:jar" to something like "my_program:jar" without quotes (if you use a different name, replace the following instructions' use of "my_program" to your own filename)
+3. Under the part that says "Output Layout" look for the part that says "java15_jar_test.jar"
+4. Right click "java15_jar_test.jar and hit "Rename"
+5. Change the text to "my_program.jar" (without quotes) and hit enter
+3. Click apply
+4. Click OK
+5. Click Build -> Build Artifacts -> my_program:jar -> Build
+6. In an Explorer window, navigate to the java15_javafx15_jar_template folder
+7. Right click on run.bat and hit edit to open it with notepad
+8. On line 4, replace "cd java15_jar_test_jar" with "cd my_program_jar" (without quotes)
+9. At the end of line 5, replace "java15_jar_test.jar" with "my_program.jar"
+10. Save the file
+
 
