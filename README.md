@@ -8,6 +8,8 @@ This template makes it easy to make a JavaFX program that you can launch by just
 
 These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now. macOS/Linux can do this mostly the same, but with different relative paths, and using a shell script instead of a .bat + a .vbs.
 
+run.vbs runs run.bat without opening a window. If you run run.bat directly, it will open a command prompt window, which users won't want to see. So this template uses a .vbs that runs a .bat that runs a .jar with certain parameters that enable it to work properly with JavaFX. It's a convoluted workaround, but it works. And I already set up most of the complicated stuff, so you just need to follow the instructions.
+
 ## Instructions
 
 ### Setup:
