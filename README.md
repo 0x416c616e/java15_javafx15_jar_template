@@ -6,7 +6,7 @@ This requires JavaFX 15 (OpenJFX), Java 15, and IntelliJ.
 
 This template makes it easy to make a JavaFX program that you can launch by just double clicking on something.
 
-These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now. macOS/Linux can do this mostly the same, but with different relative paths, and using a shell script instead of a batch file. 
+These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now. macOS/Linux can do this mostly the same, but with different relative paths, and using a shell script instead of a .bat + a .vbs.
 
 ## Instructions
 
