@@ -1,12 +1,16 @@
 # Java 15 JavaFX 15 JAR Template
 
-An easy way to make and launch a JavaFX 15 JAR. 
+**Oracle has made it harder to run a JavaFX JAR by just double clicking on something. This template is a "hello world" JavaFX window that can be launched by double clicking the run.vbs script. This template's configurations make it easier to make a user-friendly JavaFX program.**
+
+## Requirements
 
 In order to use this template, you need to have Java 15 and IntelliJ IDEA installed on your computer. This repo already contains all the JavaFX 15 stuff.
 
-This template makes it easy to make a JavaFX program that you can launch by just double clicking on something. People who use your program will only need to have Java 15 installed, and they just have to double click on run.vbs.
+People who use your program will only need to have Java 15 installed, and they just have to double click on **run.vbs**.
 
 These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now. macOS/Linux can do this mostly the same, but with different relative paths, and using a shell script instead of a .bat + a .vbs.
+
+## How it works
 
 run.vbs runs run.bat without opening a window. If you run run.bat directly, it will open a command prompt window, which users won't want to see. So this template uses a .vbs that runs a .bat that runs a .jar with certain parameters that enable it to work properly with JavaFX. It's a convoluted workaround, but it works. And I already set up most of the complicated stuff, so you just need to follow the instructions.
 
