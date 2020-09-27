@@ -28,6 +28,7 @@ This template makes it easy to make a JavaFX program that you can launch by just
 15. Click apply
 16. Click OK
 17. If you set up the configuration correctly, it should say "Main" and NOT "Unnamed"
+18. If it says "Unnamed" then try just replacing either the "Main" or the VM options text again and hit apply and OK again, making sure that it still has the same values as before, but this time changing the name of the configuration to Main
 18. Hit run to make sure you did everything correctly
 
 ### Coding in the template and then running the JAR:
