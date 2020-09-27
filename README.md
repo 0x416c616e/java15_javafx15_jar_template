@@ -2,9 +2,9 @@
 
 An easy way to make and launch a JavaFX 15 JAR. 
 
-This requires JavaFX 15 (OpenJFX), Java 15, and IntelliJ.
+This requires Java 15 and IntelliJ to be installed. This repo already contains all the JavaFX 15 stuff.
 
-This template makes it easy to make a JavaFX program that you can launch by just double clicking on something.
+This template makes it easy to make a JavaFX program that you can launch by just double clicking on something. People who use your program will only need to hava Java installed, and they just have to double click on run.vbs.
 
 These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now. macOS/Linux can do this mostly the same, but with different relative paths, and using a shell script instead of a .bat + a .vbs.
 
