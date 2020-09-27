@@ -33,9 +33,10 @@ This template makes it easy to make a JavaFX program that you can launch by just
 
 ### Coding in the template and then running the JAR:
 
-7. Write your code in the Main class
-8. Run to make sure it works
-9. Build -> Build Artifacts -> Build
-10. Double click the run.vbs script
-11. You are now running the JAR
+1. In the left-hand tab, navigate to the Main file in the src folder
+2. Write your code in the Main class
+3. Run to make sure it works
+4. Build -> Build Artifacts -> Build
+5. Double click the run.vbs script
+6. You are now running the JAR
 
