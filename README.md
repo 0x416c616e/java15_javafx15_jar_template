@@ -50,7 +50,7 @@ run.vbs runs run.bat without opening a window. If you run run.bat directly, it w
 
 ### How to change the name of the JAR
 
-Here's an example of how to change the name of the JAR. When you change the name of the JAR, there are a few other things that need to change.
+You can use this template even without changing the name of the JAR, but just in case you want to change it, here's an example of how to do it. When you change the name of the JAR, there are a few other things that need to change.
 
 1. Click File -> Project Structure -> Artifacts
 2. In the "Name" field towards the top middle, rename "java15_jar_test:jar" to something like "my_program:jar" without quotes (if you use a different name, replace the following instructions' use of "my_program" to your own filename)
