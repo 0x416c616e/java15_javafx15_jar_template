@@ -29,8 +29,8 @@ run.vbs runs run.bat without opening a window. If you run run.bat directly, it w
 9. Click "Add Configuration"
 11.  Click the + icon
 12. Click Application
-13. Type "Main" in the "Main class" field (without quotes)
-15. Copy "--module-path openjfx-15_windows-x64_bin-sdk\javafx-sdk-15\lib --add-modules javafx.controls,javafx.fxml" to your clipboard (without quotes)
+13. Type "Main" in the "Main class" field (without quotes)          
+15. Copy "--module-path \PATH_TO_OPENJFX\openjfx-15_windows-x64_bin-sdk\javafx-sdk-15\lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.web" to your clipboard (without quotes and change the \PATH_TO_OPENJFX\ part to whatever makes sense on your system)
 14. Click in the text field for the "VM options" section
 15. hit ctrl+v
 15. Click apply
