@@ -66,4 +66,7 @@ You can use this template even without changing the name of the JAR, but just in
 9. At the end of line 5, replace "java15_jar_test.jar" with "my_program.jar"
 10. Save the file
 
+### More info
 
+For more information, check out this tutorial (I didn't make it):
+[https://www.youtube.com/watch?v=HGHu-SzL-5E](https://www.youtube.com/watch?v=HGHu-SzL-5E)
