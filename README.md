@@ -8,7 +8,7 @@ In order to use this template, you need to have Java 15 and IntelliJ IDEA instal
 
 People who use your program will only need to have Java 15 installed, and they just have to double click on **run.vbs**.
 
-These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now. macOS/Linux can do this mostly the same, but with different relative paths, and using a shell script instead of a .bat + a .vbs.
+These instructions are intended for Windows. Maybe I will add macOS and Linux support in the future, but not now. macOS/Linux can do this mostly the same, but with different relative paths, and using a shell script instead of a .bat + a .vbs. They would also need a different version of OpenJFX (for the corresponding OS), as this one currently only has the Windows 64-bit version of OpenJFX 15.
 
 ## How it works
 
